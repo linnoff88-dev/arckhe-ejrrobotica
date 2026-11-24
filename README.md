@@ -1,4 +1,4 @@
-﻿# EJR RobÃ³tica â€” proposta de novo site
+# EJR RobÃ³tica â€” proposta de novo site
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 Redesenho de https://ejrrobotica.com.br/ â€” site estÃ¡tico (HTML + CSS + JS, sem build).
 
-**Ver online:** https://inematds.github.io/ejrrobotica/
+**Ver online:** https://linnoff88-dev.github.io/
 
 O destaque Ã© a arena no topo: o visitante programa um robÃ´ com os comandos
 PF, PT, PE e PD (os mesmos dos jogos da EJR) e leva ele atÃ© trÃªs alvos.
