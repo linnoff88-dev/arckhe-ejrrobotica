@@ -1,4 +1,4 @@
-# EJR RobÃ³tica â€” proposta de novo site
+# EJR RobêÂ³tica ê¢â¬â proposta de novo site
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,14 +6,14 @@
 </div>
 
 
-Redesenho de https://ejrrobotica.com.br/ â€” site estÃ¡tico (HTML + CSS + JS, sem build).
+Redesenho de https://ejrrobotica.com.br/ ê¢â¬â site estêÂ¡tico (HTML + CSS + JS, sem build).
 
 **Ver online:** https://linnoff88-dev.github.io/
 
-O destaque Ã© a arena no topo: o visitante programa um robÃ´ com os comandos
-PF, PT, PE e PD (os mesmos dos jogos da EJR) e leva ele atÃ© trÃªs alvos.
+O destaque êÂ© a arena no topo: o visitante programa um robêÂ´ com os comandos
+PF, PT, PE e PD (os mesmos dos jogos da EJR) e leva ele atêÂ© trêÂªs alvos.
 
-- Plano completo, identidade e pendÃªncias de conteÃºdo: [PLANO.md](PLANO.md)
+- Plano completo, identidade e pendêÂªncias de conteêÂºdo: [PLANO.md](PLANO.md)
 - Rodar localmente: abra `index.html` no navegador.
 
 ---

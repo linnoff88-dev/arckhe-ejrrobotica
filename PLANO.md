@@ -18,8 +18,8 @@ as três plataformas, a foto real da turma e os contatos.
 
 ## Público e objetivo
 
-- Coordenação pedagógica e direção de escolas (decide a compra/contratação).
-- Professores e instrutores (usam kits, formação e plataformas).
+- Coordenaçêo pedagógica e direçêo de escolas (decide a compra/contrataçêo).
+- Professores e instrutores (usam kits, formaçêo e plataformas).
 - Pais e alunos (aulas, EJR Games).
 - Objetivo principal da página: **pedido de orçamento pelo WhatsApp**, já com o nome do kit.
 
@@ -45,12 +45,12 @@ Tudo sai do logo: blocos laranja/verde/azul com contorno preto grosso.
 
 ## Estrutura da página
 
-1. **Topo fixo** — logo, Kits, Plataformas, Contato, botão WhatsApp.
+1. **Topo fixo** — logo, Kits, Plataformas, Contato, botêo WhatsApp.
 2. **Arena** (hero) — título, frase, botões "Pedir orçamento" e "Ver kits"; à direita
    a arena 6×6 programável. Teclado e celular funcionam; `prefers-reduced-motion` respeitado.
-3. **O que a EJR faz** — Aulas, Vendas, Assessoria, Formação.
+3. **O que a EJR faz** — Aulas, Vendas, Assessoria, Formaçêo.
 4. **Kits** — os 7 kits do site atual, com filtro por tipo (robô, placa, jogo, desplugado)
-   e botão de orçamento que abre o WhatsApp com o nome do kit.
+   e botêo de orçamento que abre o WhatsApp com o nome do kit.
 5. **Plataformas** — EJR Hub, Jabuti Edu Nuvem, EJR Games (Trilogia Barco Robô Amazônia).
 6. **Turma** — a foto real dos robôs na arena.
 7. **Contato** — WhatsApp/Telegram/telefone, e-mail, Instagram, Facebook e os 4 formulários
@@ -58,16 +58,16 @@ Tudo sai do logo: blocos laranja/verde/azul com contorno preto grosso.
 
 ## Regra de conteúdo
 
-Só fatos que já estão no site atual. Nada de depoimentos, números, preços ou
-equipe inventados. Lacunas estão marcadas no HTML como `<!-- TODO EJR: ... -->`.
+Só fatos que já estêo no site atual. Nada de depoimentos, números, preços ou
+equipe inventados. Lacunas estêo marcadas no HTML como `<!-- TODO EJR: ... -->`.
 
 ## O que a EJR precisa mandar (pendências de conteúdo)
 
-- [ ] Fotos de cada um dos 7 kits (hoje o site usa ilustração por tipo).
+- [ ] Fotos de cada um dos 7 kits (hoje o site usa ilustraçêo por tipo).
 - [ ] Uma frase por kit: faixa etária/série, o que vem na caixa.
-- [ ] Texto curto de cada serviço (Aulas, Vendas, Assessoria, Formação).
-- [ ] Cidade/região atendida e endereço (se quiserem mostrar).
-- [ ] Fotos de turma com autorização de imagem (mais de uma).
+- [ ] Texto curto de cada serviço (Aulas, Vendas, Assessoria, Formaçêo).
+- [ ] Cidade/regiêo atendida e endereço (se quiserem mostrar).
+- [ ] Fotos de turma com autorizaçêo de imagem (mais de uma).
 - [ ] Domínio: apontar ejrrobotica.com.br para o novo site quando aprovado.
 
 ## Fora da v1 (próximas etapas)
